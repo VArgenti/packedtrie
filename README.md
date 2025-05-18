@@ -6,7 +6,7 @@ Requires Python 3.10 or newer
 
 Install by running in your terminal
 ```
-pip install git+https://github.com/VArgenti/PackedTrie.git
+pip install packedtrie
 ```
 
 ## Initialization and Methods
