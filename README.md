@@ -6,7 +6,7 @@ Requires Python 3.10 or newer
 
 Install by running in your terminal
 ```
-pip install git+https://gits-15.sys.kth.se/grudat25/vsilwer-ovn7
+pip install git+https://github.com/VArgenti/PackedTrie.git
 ```
 
 ## Initialization and Methods
