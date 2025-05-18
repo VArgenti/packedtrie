@@ -1,6 +1,6 @@
-from PackedTrie import *
+from packedtrie import PackedTrie
 import sys
-from words_alpha import words as words_set #A list of 370_105 words for testing
+from words_alpha import words as words_set #A set of 370_105 words for testing
 import unittest
 
 def rep(trie):

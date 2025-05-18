@@ -1,7 +1,7 @@
 import sys
 assert sys.version_info >= (3, 10), "Requires Python 3.10+"
 
-__all__ = ['PackedTrie']
+__all__ = ['packedtrie']
 
 class _TrieTier:
     """Internal memory efficient class storing bytearrays of nodes. Each tier preallocates memory for 2**tier large chunks of nodes.
